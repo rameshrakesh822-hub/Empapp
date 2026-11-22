@@ -20,7 +20,7 @@ pipeline {
                     }
 
                     docker compose config -q
-                    docker compose up -d --build
+                    docker compose -p empapp up -d --build
                 '''
             }
         }
