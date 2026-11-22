@@ -7,7 +7,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/YOUR_USERNAME/Employee-app.git'
+                url: 'https://github.com/rameshrakesh822-hub/Empapp.git'
             }
         }
 
