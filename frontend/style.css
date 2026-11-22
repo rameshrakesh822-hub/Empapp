@@ -19,7 +19,7 @@ body {
 
 header {
     background: #3baf1e;
-    color: white;
+    color: rgb(230, 168, 168);
     padding: 30px;
     border-radius: 10px;
     margin-bottom: 25px;
@@ -31,7 +31,7 @@ header h1 {
 
 .form-section,
 .employee-section {
-    background: white;
+    background: rgb(199, 127, 127);
     padding: 25px;
     border-radius: 10px;
     margin-bottom: 25px;
